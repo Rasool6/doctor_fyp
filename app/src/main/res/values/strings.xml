@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">doctor_fyp</string>
+   <string-array name="choose">
+       <item>Select User Role</item>
+       <item> Doctor </item>
+       <item> Patient </item>
+       <item> Pharmacy </item>
+   </string-array>
+    <string-array name="verified">
+       <item>Verified by Govt</item>
+       <item> Yes </item>
+       <item> No </item>
+
+   </string-array>
+    <string-array name="specialization">
+       <item>Your Specialization</item>
+       <item> Children Specialist </item>
+       <item> Heart Specialist </item>
+       <item> Children Specialist </item>
+       <item> Children Specialist </item>
+       <item> Children Specialist </item>
+       <item> Children Specialist </item>
+       <item> Children Specialist </item>
+       <item> Children Specialist </item>
+
+   </string-array>
+</resources>

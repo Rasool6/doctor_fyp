@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.doctor_fyp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Doctor_fyp">
+        <activity android:name=".Pharmacy.PharmacySignIn"></activity>
+        <activity android:name=".Pharmacy.PharmacySignUp" >
+
+
+        </activity>
+        <activity android:name=".Patient.PatientSignIn" />
+        <activity android:name=".Patient.PatientSignUp" ></activity>
+        <activity android:name=".Doctor.DocotorSignIn" ></activity>
+        <activity android:name=".Doctor.DocotorSignUp" ></activity>
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ChooseActivity"></activity>
+    </application>
+
+</manifest>

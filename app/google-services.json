@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "9092514545",
+    "project_id": "doctorfyp302-2bd0a",
+    "storage_bucket": "doctorfyp302-2bd0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9092514545:android:01b24c271d52f400bb1f50",
+        "android_client_info": {
+          "package_name": "com.example.doctor_fyp.Doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9092514545-ttt5tkoc8g57u18hpnd4p7ga4uea7voj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doctor_fyp.Doctor",
+            "certificate_hash": "b5ca5fffacae0ac127d7f89b77b8c864cb4fd3b8"
+          }
+        },
+        {
+          "client_id": "9092514545-vv4gdip8ib3p31sn5dem6ks7hio1dqg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCo_rutQEYKJucJ2BzP4n1QSNmnGJscjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9092514545-vv4gdip8ib3p31sn5dem6ks7hio1dqg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
